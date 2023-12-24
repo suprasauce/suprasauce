@@ -53,8 +53,3 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-
-
-### Github Stats
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=suprasauce&show_icons=true&theme=radical&count_private=true&PAT_1=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" /> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprasauce&show_icons=true&theme=radical&langs_count=4&layout=compact&PAT_1=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"/>
