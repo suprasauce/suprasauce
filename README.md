@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/ChiragKalra/Fitter"><b>Fitter</b></a></td>
-<td>(Group Project) A weight and workout tracking android app that allows you to challenge your friends.</td>
+<td>A weight and workout tracking android app that allows you to challenge your friends.</td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/ChiragKalra/DustIt?style=flat-square"/></td>
 </tr>
 </tbody>
