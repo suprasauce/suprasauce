@@ -1,5 +1,3 @@
-[![Resume](https://img.shields.io/badge/-Resume-2A52BE?style=for-the-badge)](https://drive.google.com/file/d/1JiY62dYeu8G5xJMYXYlnkCSDvfFsVqaF/view?usp=sharing)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjbhullar16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurjyot-singh-bhullar-b3930918b/)
 
 ### Hi there 👋
@@ -42,10 +40,9 @@
 ### Programming Languages I've worked with
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![MySQL](https://img.shields.io/badge/postgres-000000?style=flat&logo=Postgresql)
-
 
 ### Technologies I've worked With
 
@@ -53,3 +50,4 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![MySQL](https://img.shields.io/badge/postgres-000000?style=flat&logo=Postgresql)
